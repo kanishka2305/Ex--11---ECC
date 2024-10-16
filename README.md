@@ -127,9 +127,10 @@ int main() {
     return 0;
 }
 ```
-OUTPUT:
+## OUTPUT:
+
 ![image](https://github.com/user-attachments/assets/734dfc29-18bc-4809-bd31-c51dbc37f657)
 
 
-RESULT:
+## RESULT:
 The program for Elliptic Curve Cryptography (ECC) was executed successfully, and both Alice and Bob computed the same shared secret.
